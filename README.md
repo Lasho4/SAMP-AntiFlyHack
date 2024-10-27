@@ -1,6 +1,10 @@
 # SAMP-AntiFlyHack
 Anti Fly Hack for San Andreas Multiplayer
 
+## Usage
+``` pawn
+#include <antiflyhack.inc>
+```
 
 ## Example
 ```pawn
